@@ -9,9 +9,9 @@ Full-stack app to manage teams, projects, and tasks using:
 ## Setup Instructions
 
 ### Create .env file in backend
-PORT=5000
-MONGODB_URI=your_MongoDb_URL
-JWT_SECRET=your_jwt_secret_key
+- PORT=5000
+- MONGODB_URI=your_MongoDb_URL
+- JWT_SECRET=your_jwt_secret_key
 
 
 ### 1. Backend
